@@ -55,11 +55,11 @@
 			isa = PBXGroup;
 			children = (
 				ACF74E7E23123F7700D4C24B /* AppDelegate.swift */,
+				ACE6C9F923134E4100CD4E19 /* WatchFaceTableViewController.swift */,
 				ACF74E8223123F7700D4C24B /* Main.storyboard */,
 				ACF74E8523123F7900D4C24B /* Assets.xcassets */,
 				ACF74E8723123F7900D4C24B /* LaunchScreen.storyboard */,
 				ACF74E8A23123F7900D4C24B /* Info.plist */,
-				ACE6C9F923134E4100CD4E19 /* WatchFaceTableViewController.swift */,
 			);
 			path = "Table View Image Text";
 			sourceTree = "<group>";
